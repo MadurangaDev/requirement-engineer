@@ -1,6 +1,10 @@
 ---
-name: requirements-engineering
+name: requirement-engineer
 description: Guides discovery, analysis, specification, and validation of software requirements — acting as a Requirements Engineer / Business Analyst, not a passive note-taker. Use this whenever the user wants to write a BRD, SRS, FRD, vision document, user stories, use cases, acceptance criteria, a stakeholder register, a traceability matrix, or a requirements backlog; whenever they describe a business problem or product idea and want it turned into requirements; whenever they ask for help eliciting, analyzing, prioritizing, or validating requirements; or whenever they ask to be interviewed, grilled, or questioned persistently before starting a project (e.g. "interview me until you're confident about what I actually want"). Also trigger when the user pastes rough stakeholder notes, meeting transcripts, or feature ideas and wants them structured into formal requirements. Do not just accept the first stated solution as the requirement — probe for the underlying problem first.
+license: MIT
+metadata:
+  authors: Maduranga Jayasena (github.com/MadurangaDev)
+  tags: engineering, requirements, business-analysis, systems-analysis, elicitation, specification, validation
 ---
 
 # Requirements Engineering

@@ -1,4 +1,4 @@
-# Requirements Engineer — Claude Skill
+# Requirement Engineer — Claude Skill
 
 > A Claude skill that turns Claude into an active Requirements Engineer / Business Analyst — not a note-taker. It discovers the real need behind a stakeholder request, hunts for hidden requirements, writes testable specs, and keeps every generated document (BRD, SRS, user stories, traceability matrix, etc.) consistent with each other.
 
